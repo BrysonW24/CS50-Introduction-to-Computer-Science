@@ -42,3 +42,5 @@ int main(void)
     // Say hello
     printf("Hello, %s, from %s!\n", name, location);
 }
+//Added or changed the following:
+//Library stdio.h, string to specify the variable, semi-colons, printf, %s instead of %i for string
